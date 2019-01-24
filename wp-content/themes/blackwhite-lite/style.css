@@ -916,6 +916,7 @@ a:link, a:visited, a:active {
 	bottom: 0;
 	height: 5px;
 	width: 30px;
+	display: none;
 }
 .entry-header > .cat-links {
 	text-transform: uppercase;
@@ -1627,6 +1628,7 @@ a:link, a:visited, a:active {
 	left: 0;
 	height: 5px;
 	width: 30px;
+	display: none;
 }
 article ul {
 	margin: 0 0 1.5em 2.5em;
